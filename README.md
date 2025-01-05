@@ -85,5 +85,3 @@ This granular view helps identify high-performing cities and areas that may need
 2. Open the BI tool file (e.g., `.pbix` for Power BI).
 3. Connect the dataset provided in the repository.
 4. Explore the interactive dashboard to analyze sales performance.
-
-## Repository Structure

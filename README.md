@@ -86,5 +86,3 @@ This granular view helps identify high-performing cities and areas that may need
 3. Connect the dataset provided in the repository.
 4. Explore the interactive dashboard to analyze sales performance.
 
-## Download the Power BI File
-The Power BI file for this project is too large to host on GitHub. You can download it from [here](Your-Drive-Link).
